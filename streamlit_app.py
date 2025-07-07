@@ -70,7 +70,7 @@ with st.expander("💼 Berufserfahrung"):
 
 # === Ausbildung ===
 with st.expander("🎓 Studium & Weiterbildung"):
-    auswahl = st.selectbox("Wähle Abschnitt:", ["Data Science Weiterbildung", "M.Sc.", "B.Sc."])
+    auswahl = st.selectbox("Wähle Abschnitt:", ["Weiterbildung Data Science", "M.Sc.", "B.Sc."])
 
     if auswahl == "Weiterbildung Data Science":
         st.subheader("📊 Weiterbildung zum (Junior) Data Scienctist")
