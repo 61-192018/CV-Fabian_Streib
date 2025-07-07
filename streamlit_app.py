@@ -111,7 +111,7 @@ with st.expander("🎓 Studium & Weiterbildung"):
 with st.expander("🛠️ Projekte & Demos"):
     st.markdown("""
     - 📊 **SMARD Strom-Dashboard** – Analyse deutscher Stromerzeugung (Python, Streamlit)  
-      [➡️ Zur Demo](https://dein-dashboard.streamlit.app)
+      [➡️ Zum Repository auf Github](https://github.com/61-192018/Analyse_Erzeugungsleistung_Deutschland_Marktstammdatenregister)
 
     - 📁 **GitHub-Portfolio**  
       [➡️ github.com/61-192018](https://github.com/61-192018)
