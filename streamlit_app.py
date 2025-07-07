@@ -19,10 +19,10 @@ with st.expander("💼 Berufserfahrung"):
             • \nProjektleitung "Dynamischer Tarif"
             • \nNeutarifentwicklungen, Tarifkalkulation Mieterstrom
         - **Detailiertere Beschreibung**:
-            •	Management von ca. 200.000 Haushaltskund:innen im Bereich Strom<br>
-            •	Entwicklung neuer Strom- und Gastarife unter Berücksichtigung gesetzlicher Vorgaben (EnWG, EEG)
-            •	Tarifkalkulation und Pricing unter Berücksichtigung von Strompreisschwankungen und Risikofaktoren, insbesondere während der Energiekrise 2022/2023
-            •	Wirtschaftlichkeitsberechnungen für Mieterstromprojekte zur strategischen Bewertung und Entscheidungsvorbereitung
+            •	Management von ca. 200.000 Haushaltskund:innen im Bereich Strom  
+            •	Entwicklung neuer Strom- und Gastarife unter Berücksichtigung gesetzlicher Vorgaben (EnWG, EEG)  
+            •	Tarifkalkulation und Pricing unter Berücksichtigung von Strompreisschwankungen und Risikofaktoren, insbesondere während der Energiekrise 2022/2023  
+            •	Wirtschaftlichkeitsberechnungen für Mieterstromprojekte zur strategischen Bewertung und Entscheidungsvorbereitung  
             •	Mitarbeit am Reporting für das unternehmensweite Risikokomitee – insbesondere zu Energiemengen und Beschaffungsrisiken
             •	Aufbau und Pflege von Energiedaten- und Kundenportfolioreportings
             •	Wettbewerbsanalysen zur kontinuierlichen Marktbeobachtung und strategischen Ausrichtung
