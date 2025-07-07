@@ -19,16 +19,16 @@ with st.expander("💼 Berufserfahrung"):
             • \nProjektleitung "Dynamischer Tarif"
             • \nNeutarifentwicklungen, Tarifkalkulation Mieterstrom
         - **Detailiertere Beschreibung**:
-            •	\nManagement von ca. 200.000 Haushaltskund:innen im Bereich Strom
-            •	\nEntwicklung neuer Strom- und Gastarife unter Berücksichtigung gesetzlicher Vorgaben (EnWG, EEG)
-            •	\nTarifkalkulation und Pricing unter Berücksichtigung von Strompreisschwankungen und Risikofaktoren, insbesondere während der Energiekrise 2022/2023
-            •	\nWirtschaftlichkeitsberechnungen für Mieterstromprojekte zur strategischen Bewertung und Entscheidungsvorbereitung
-            •	\nMitarbeit am Reporting für das unternehmensweite Risikokomitee – insbesondere zu Energiemengen und Beschaffungsrisiken
-            •	\nAufbau und Pflege von Energiedaten- und Kundenportfolioreportings
-            •	\nWettbewerbsanalysen zur kontinuierlichen Marktbeobachtung und strategischen Ausrichtung
-            •	\nProjektleitung "Dynamischer Tarif" – inklusive Konzeption, Koordination, Durchführung von Weeklys und Nutzerinterviews
-            •	\nVerantwortung für Zertifizierungen (TÜV, OK POWER+) sowie Konzeption und Durchführung interner Schulungen
-            •	\nZusammenarbeit mit nahezu allen Fachbereichen: Vertrieb, Energiebeschaffung, Controlling, Recht, Abrechnung, Marketing und weitere
+            •	Management von ca. 200.000 Haushaltskund:innen im Bereich Strom<br>
+            •	Entwicklung neuer Strom- und Gastarife unter Berücksichtigung gesetzlicher Vorgaben (EnWG, EEG)
+            •	Tarifkalkulation und Pricing unter Berücksichtigung von Strompreisschwankungen und Risikofaktoren, insbesondere während der Energiekrise 2022/2023
+            •	Wirtschaftlichkeitsberechnungen für Mieterstromprojekte zur strategischen Bewertung und Entscheidungsvorbereitung
+            •	Mitarbeit am Reporting für das unternehmensweite Risikokomitee – insbesondere zu Energiemengen und Beschaffungsrisiken
+            •	Aufbau und Pflege von Energiedaten- und Kundenportfolioreportings
+            •	Wettbewerbsanalysen zur kontinuierlichen Marktbeobachtung und strategischen Ausrichtung
+            •	Projektleitung "Dynamischer Tarif" – inklusive Konzeption, Koordination, Durchführung von Weeklys und Nutzerinterviews
+            •	Verantwortung für Zertifizierungen (TÜV, OK POWER+) sowie Konzeption und Durchführung interner Schulungen
+            •	Zusammenarbeit mit nahezu allen Fachbereichen: Vertrieb, Energiebeschaffung, Controlling, Recht, Abrechnung, Marketing und weitere
         - **Tools**: Excel, ERP (First Sale, SQL), WEKAN/Youtrack, Miroboard, Confluence, Microsoft Office
         """)
  
