@@ -112,7 +112,7 @@ with st.expander("🛠️ Projekte & Demos"):
       [➡️ Zur Demo](https://dein-dashboard.streamlit.app)
 
     - 📁 **GitHub-Portfolio**  
-      [➡️ github.com/deinusername](https://github.com/deinusername)
+      [➡️ github.com/61-192018](https://github.com/61-192018)
     """)
 
 # === Kontakt ===
@@ -120,6 +120,7 @@ with st.expander("✉️ Kontakt"):
     st.markdown("""
     - ✉️ E-Mail: jf.streib@outlook.de  
     - 💼 LinkedIn: [linkedin.com/in/fabian-s-03aa92158](https://linkedin.com/in/fabian-s-03aa92158)  
+    - 📞 Mobil: +49 157 770 465 54
     - 📍 Standort: Freiburg im Breisgau (remote offen)
     """)
 
