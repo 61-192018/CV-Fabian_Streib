@@ -48,13 +48,14 @@ with st.expander("💼 Berufserfahrung"):
         st.caption("Januar 2018 – April 2018 (Accra, Ghana)")
         st.markdown("""
         - **Aufgaben**:  
-        - **Fokus**: Objektive Hermeneutik, Interview...  
+            •	Entwicklung von Schulungsmaterialien für den Mikrofinanzsektor in Ghana und Gambia  
+            •	Impact Assessment und Vorbereitung eines Stakeholder-Workshops  
         - **Tools**: Microsoft Office / Excel
         """)
 
     with tabs[3]:
         st.subheader("Praktika – Wirtschaftsforschung")
-        st.caption("Juli 2017 – April 2018")
+        st.caption("Juli 2017 – Dezember 2018")
         st.markdown("""
         - **Einrichtungen**:  
                     ZEW - Zentrum für Europäische Wirtwschaftsforschung, Mannheim  
@@ -71,11 +72,11 @@ with st.expander("💼 Berufserfahrung"):
 with st.expander("🎓 Studium & Weiterbildung"):
     auswahl = st.selectbox("Wähle Abschnitt:", ["Data Science Weiterbildung", "M.Sc.", "B.Sc."])
 
-    if auswahl == "Data Science Weiterbildung":
-        st.subheader("📊 Weiterbildung – Data Science")
+    if auswahl == "Weiterbildung Data Science":
+        st.subheader("📊 Weiterbildung zum (Junior) Data Scienctist")
         st.caption("Juni 2025 – August 2025 (laufend)")
         st.markdown("""
-        - Intensivkurs bei ComCave College GmbH 
+        - **Bildungsträger**: ComCave College GmbH  
         - **Inhalte**:  
             •	Deskriptive Statistik mit Python und R  
             •	Big Data Management mit SQL und R  
@@ -88,7 +89,7 @@ with st.expander("🎓 Studium & Weiterbildung"):
         st.subheader("M.Sc. Volkswirtschaftslehre")
         st.caption("2017 – 2021")
         st.markdown("""
-        - Albert Ludwigs Universität Freiburg  
+        - **Einrichtung**: Albert Ludwigs Universität Freiburg  
         - **Vertiefung**: Empirical Economics, International & Development Economics  
         - **Masterarbeit**: "Distance as a Determinant of Migration: A Gravity Analysis of Africa and Asia" (Note: 1,7)  
         - **Methoden**: Stata, Excel, erste R-Experimente  
@@ -99,9 +100,10 @@ with st.expander("🎓 Studium & Weiterbildung"):
         st.subheader("B.Sc. Economics and Business Administration")
         st.caption("2013 – 2017")
         st.markdown("""
-        - Eberhard-Karls-Universität Tübingen  
-        - **Schwerpunkte**: Managerial Accounting, Organisation & Marketing
+        - **Einrichtung**: Eberhard-Karls-Universität Tübingen  
+        - **Schwerpunkte**: Managerial Accounting, Organisation & Marketing  
         - **Bachelorarbeit**: "Does Youth Bulge have an Effect on Homicide Rates?" (Note: 2,0)  
+        - **Methoden**: Stata, Excel  
         - **Abschlussnote**: 2,3
         """)
 
