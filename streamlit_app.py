@@ -110,9 +110,10 @@ with st.expander("🎓 Studium & Weiterbildung"):
 # === Projekte (optional) ===
 with st.expander("🛠️ Projekte & Demos"):
     st.markdown("""
-    - 📊 **SMARD Strom-Dashboard** – Analyse deutscher Stromerzeugung (Python, Streamlit)  
+    - 📊 **SMARD Strom-Dashboard** – Analyse deutscher Stromerzeugung (Python)  
       [➡️ Zum Repository auf Github](https://github.com/61-192018/Analyse_Erzeugungsleistung_Deutschland_Marktstammdatenregister)
-
+    - 📊 **Weather Data and Graphs** – Analyse monatlicher Wetterdaten (Finnland, 2017) (R - aggregate functions with tidyverse: dplyr, ggplot) 
+      [➡️ github.com/61-192018](https://github.com/61-192018/weatherdata_finland_2017)
     - 📁 **GitHub-Portfolio**  
       [➡️ github.com/61-192018](https://github.com/61-192018)
     """)
