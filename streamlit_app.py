@@ -114,7 +114,7 @@ with st.expander("🛠️ Projekte & Demos"):
       [➡️ Zur Repository-Übersicht auf Github](https://github.com/61-192018)
     - 📊 **SMARD Strom-Dashboard** – Analyse deutscher Stromerzeugung (Python)  
       [➡️ Zum Repository auf Github](https://github.com/61-192018/Analyse_Erzeugungsleistung_Deutschland_Marktstammdatenregister)
-    - 📊 **Weather Data and Graphs** – Analyse monatlicher Wetterdaten (Finnland, 2017) (R - aggregate functions with tidyverse: dplyr, ggplot) 
+    - 📊 **Weather Data and Graphs** – Analyse monatlicher Wetterdaten (Finnland, 2017) (R - aggregate functions with tidyverse: dplyr, ggplot)  
       [➡️ Zum Repository auf Github](https://github.com/61-192018/weatherdata_finland_2017)
 
     """)
